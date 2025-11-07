@@ -1,0 +1,2 @@
+# potato_disease_classification
+potato_disease_classification
