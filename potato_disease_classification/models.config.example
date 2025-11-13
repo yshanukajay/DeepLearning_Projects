@@ -1,0 +1,9 @@
+model_config_list: {
+  config: {
+    name: "potatoes_model",
+    base_path: "/potato_disease_classification/models/potatoes_model",
+    model_platform: "tensorflow"
+  }
+}
+
+
