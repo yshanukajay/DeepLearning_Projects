@@ -1,4 +1,4 @@
-#Potato Disease Prediction 🌱🥔
+# Potato Disease Prediction 🌱🥔
 
 This project focuses on detecting and classifying diseases in potato plants using machine learning and deep learning techniques. It aims to help farmers and agricultural enthusiasts identify plant diseases early, improving crop yield and reducing losses.
 
