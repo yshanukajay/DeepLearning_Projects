@@ -1,40 +1,20 @@
-# Potato Disease Prediction 🌱🥔
+# 🥔 Potato Disease Prediction
+This project focuses on building an intelligent system to detect and classify potato leaf diseases using machine learning and deep learning techniques. Early identification of plant diseases is crucial for improving crop yield, reducing losses, and supporting sustainable agriculture.
 
-This project focuses on detecting and classifying diseases in potato plants using machine learning and deep learning techniques. It aims to help farmers and agricultural enthusiasts identify plant diseases early, improving crop yield and reducing losses.
-
-Key Features:
-
-Detects multiple potato diseases such as Early Blight, Late Blight, and Healthy leaves.
-
-Uses Convolutional Neural Networks (CNNs) for accurate image-based classification.
-
-Preprocessing pipeline includes image augmentation and normalization for better model performance.
-
-Provides an easy-to-use interface for uploading images and predicting disease type.
-
-Technologies & Tools:
-
-Python 🐍
-
-TensorFlow / Keras
-
-OpenCV for image processing
-
-NumPy & Pandas for data manipulation
-
-Matplotlib / Seaborn for visualization
-
-Dataset:
-
-The project uses publicly available potato leaf datasets for training and testing.
-
-Potential Improvements:
-
-Expand to detect diseases in other crops.
-
-Deploy as a web or mobile application for real-time use.
-
-Integrate IoT sensors for environmental monitoring.
-
-
-#MachineLearning #DeepLearning #PlantDiseaseDetection #CNN #Python #AgriTech #ComputerVision #AIForGood #PotatoDisease
+🔍 Features
+- Image-based detection: Uses potato leaf images to identify common diseases such as Early Blight and Late Blight.
+- Deep learning models: Implements Convolutional Neural Networks (CNNs) for accurate classification.
+- Dataset integration: Trained on publicly available datasets of potato leaf images.
+- User-friendly workflow: Provides clear scripts for preprocessing, training, and evaluation.
+- Scalable design: Can be extended to other crops or integrated into IoT-based monitoring systems.
+- 
+📈 Goals
+- Assist farmers and researchers in real-time disease monitoring.
+- Reduce dependency on manual inspection.
+- Contribute to precision agriculture by leveraging AI-driven solutions.
+- 
+⚙️ Tech Stack
+- Python
+- TensorFlow / Keras / PyTorch
+- OpenCV for image preprocessing
+- Jupyter Notebooks for experimentation
